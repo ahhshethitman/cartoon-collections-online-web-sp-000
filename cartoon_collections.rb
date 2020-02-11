@@ -27,5 +27,3 @@ def find_the_cheese(array)
   end
 end
 
-
-roll_call_dwarves(dwarves)
